@@ -162,5 +162,5 @@ body {
 }   
 
 .botao__assine:hover {
-    color:(var(--botao-azul))
+    color:var(--botao-azul)
 }
